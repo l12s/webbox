@@ -1,0 +1,25 @@
+{
+  "name": "@l12s/webbox",
+  "version": "0.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l12s/webbox.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "api",
+    "infrastructure"
+  ],
+  "author": "Joseph Werle <werle@l12s.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l12s/webbox/issues"
+  },
+  "homepage": "https://github.com/l12s/webbox#readme"
+}
